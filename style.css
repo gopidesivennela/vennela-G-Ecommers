@@ -1,0 +1,13 @@
+@import url(C:\Users\nithi\OneDrive\Pictures\文档\html\link-html-to-css\loginpage.html);
+
+*{
+    background-color:aqua;
+    text-align: center;
+    border: black;
+
+}
+.body{
+    background-origin: padding-box;
+    border-radius: 20%;
+}
+
